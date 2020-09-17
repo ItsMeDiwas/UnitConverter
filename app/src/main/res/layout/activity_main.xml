@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="hr.ferit.mdudjak.unitconverter.MainActivity">
+    tools:context="sunway.group.project.unitconverter.MainActivity">
 
 <ImageButton
     android:scaleType="centerInside"

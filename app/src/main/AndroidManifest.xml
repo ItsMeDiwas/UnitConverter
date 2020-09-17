@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="hr.ferit.mdudjak.unitconverter">
+    package="sunway.group.project.unitconverter">
 
     <application
         android:allowBackup="true"
@@ -9,18 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="sunway.group.project.unitconverter.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TemperatureConverterActivity" />
-        <activity android:name=".WeightConverterActivity" />
-        <activity android:name=".DistanceConverterActivity" />
-        <activity android:name=".TimeConverterActivity" />
-        <activity android:name=".DataReceiverActivity"></activity>
+        <activity android:name="sunway.group.project.unitconverter.TemperatureConverterActivity" />
+        <activity android:name="sunway.group.project.unitconverter.WeightConverterActivity" />
+        <activity android:name="sunway.group.project.unitconverter.DistanceConverterActivity" />
+        <activity android:name="sunway.group.project.unitconverter.TimeConverterActivity" />
+        <activity android:name="sunway.group.project.unitconverter.DataReceiverActivity"></activity>
     </application>
 
 </manifest>

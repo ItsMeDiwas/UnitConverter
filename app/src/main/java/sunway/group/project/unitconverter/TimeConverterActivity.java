@@ -1,4 +1,4 @@
-package hr.ferit.mdudjak.unitconverter;
+package sunway.group.project.unitconverter;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

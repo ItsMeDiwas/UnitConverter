@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/colorPrimary"
     android:textAlignment="center"
-    tools:context="hr.ferit.mdudjak.unitconverter.DataReceiverActivity">
+    tools:context="sunway.group.project.unitconverter.DataReceiverActivity">
 <TextView
     android:id="@+id/txtValueToConvert"
     android:layout_width="match_parent"

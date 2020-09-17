@@ -1,4 +1,4 @@
-package hr.ferit.mdudjak.unitconverter;
+package sunway.group.project.unitconverter;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
