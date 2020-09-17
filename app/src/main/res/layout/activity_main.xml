@@ -16,7 +16,7 @@
     android:src="@drawable/temperature"
     android:backgroundTint="@color/colorBackgroundTintImageButtonFirst"
     android:tint="@color/colorTintImageButtonText"
-    />
+    android:contentDescription="TODO" />
 
 <ImageButton
     android:scaleType="centerInside"
